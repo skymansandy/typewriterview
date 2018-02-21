@@ -12,16 +12,16 @@ import android.util.AttributeSet;
 
 public class TypeWriterView extends AppCompatTextView {
 
-    public MediaPlayer mPlayer;
+    private MediaPlayer mPlayer;
 
     private CharSequence mText;
     private int mIndex;
     private long mDelay = 100; //Default 500ms delay
 
-    Context c;
+    private Context c;
 
-    Runnable mBlinker;
-    int i = 0;
+    private Runnable mBlinker;
+    private int i = 0;
 
     public TypeWriterView(Context context) {
         super(context);
@@ -65,6 +65,12 @@ public class TypeWriterView extends AppCompatTextView {
         mHandler.postDelayed(mBlinker, 150);
     }
 
+    private void playMusic() {
+        mPlayer = MediaPlayer.create(getContext(), R.raw.typing);
+        mPlayer.setLooping(true);
+        mPlayer.start();
+    }
+
 
     public void animateText(String text) {
         mText = text;
@@ -73,12 +79,6 @@ public class TypeWriterView extends AppCompatTextView {
         setText("");
         mHandler.removeCallbacks(characterAdder);
         mHandler.postDelayed(characterAdder, mDelay);
-    }
-
-    public void playMusic() {
-        mPlayer = MediaPlayer.create(getContext(), R.raw.typing);
-        mPlayer.setLooping(true);
-        mPlayer.start();
     }
 
     public void setDelay(int delay)
