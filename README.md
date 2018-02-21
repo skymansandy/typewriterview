@@ -16,11 +16,10 @@ A simple Android library for typewriter like effects
  - Set TypeWriter sound effect (With or without sound)
  - Set all the usual attributes of TextView and style your view.
  
-## Demonstration
- 
- |Demo TypeWriterView|
- |:---:|
- |![](../art/demoTypeWriterView.gif)|
+# Demonstration
+|Demo TypeWriterView|
+|:---:|
+|![](art/demoTypeWriterView.gif)|
  
 # Usage
 ## Dependency:
