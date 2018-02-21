@@ -53,7 +53,7 @@ A simple Android library for typewriter like effects
          typeWriterView.setWithMusic(boolean);
           
          //Animating Text
-         typeWriterView.animateText(String);
+         typeWriterView.animateText(string);
          
          //Remove Animation. This is required to be called when you want to minimize the app while animation is going on. Call this in onPause() or onStop()
          typeWriterView.removeAnimation();
