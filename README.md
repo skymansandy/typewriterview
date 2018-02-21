@@ -57,11 +57,7 @@ A simple Android library for typewriter like effects
          
          //Remove Animation. This is required to be called when you want to minimize the app while animation is going on. Call this in onPause() or onStop()
          typeWriterView.removeAnimation();
- ``` 
- ## Proguard
- 
- You don't need use proguard at all.
- 
+ ```  
  ## Donate
  
  If you like this widget, you could praise me some protein powder below lol
