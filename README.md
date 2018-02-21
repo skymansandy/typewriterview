@@ -18,10 +18,6 @@ Android library for typewriter like effects
  - Ellipsize when floating label text length too long.
  - You can set floating label text by ForegroundColorSpan.
  
-## Demo
- - [Download APK-Demo](../art/demo.apk)
- - [Sample Code Reference](https://github.com/james602152002/FloatingLabelEditTextDemo)
- 
 ## Demonstration
  
  |Error/Float|Sliding Text|
