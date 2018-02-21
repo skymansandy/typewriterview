@@ -19,7 +19,6 @@ Android library for typewriter like effects
  - You can set floating label text by ForegroundColorSpan.
  
 # Usage
- 
 ## Dependency:
  
  ```
