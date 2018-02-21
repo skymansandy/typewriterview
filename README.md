@@ -7,16 +7,20 @@
 [![Build Status](https://travis-ci.org/james602152002/FloatingLabelEditText.svg?branch=master)](https://travis-ci.org/james602152002/FloatingLabelEditText)
 [![codecov](https://codecov.io/gh/james602152002/FloatingLabelEditText/branch/master/graph/badge.svg)](https://codecov.io/gh/james602152002/FloatingLabelEditText)
 
-Android library for typewriter like effects
+A simple Android library for typewriter like effects
 
-## Feature:
+## Features:
 
- - Set text size by code. (Include floating label, hint text, and error text)
- - Set color of hint, divider and error status by code.
- - Customize your clear button by code.
- - Support sliding text when error text length too long.
- - Ellipsize when floating label text length too long.
- - You can set floating label text by ForegroundColorSpan.
+ - Animate contents of textview as if it were typed by a TypeWriter
+ - Set Animation Text appearance duration
+ - Set TypeWriter sound effect (With or without sound)
+ - Set all the usual attributes of TextView and style your view.
+ 
+## Demonstration
+ 
+ |Demo TypeWriterView|
+ |:---:|
+ |![](../art/demoTypeWriterView.gif)|
  
 # Usage
 ## Dependency:
@@ -29,55 +33,12 @@ Android library for typewriter like effects
  
  ## Property
  ```xml
- <com.james602152002.floatinglabeledittext.FloatingLabelEditText
-           //set focus status color
-           app:j_fle_colorHighlight="#0000FF" 
-           //set divider color when you are not in focus status
-           app:j_fle_colorDivider="#FF00FF"
-           //set error status color
-           app:j_fle_colorError="#0000FF"
-           //set label text and hint
-           app:j_fle_hint="label"
-           //set thickness of divider
-           app:j_fle_thickness="2dp"
-           //set label horizontal margin
-           app:j_fle_label_horizontal_margin="2dp"
-           //set label vertical margin
-           app:j_fle_label_vertical_margin="2dp"
-           //ser error text horizontal margin
-           app:j_fle_error_horizontal_margin="2dp"
-           //set divider vertical margin
-           app:j_fle_divider_vertical_margin="2dp"
-           //set floating label text size
-           app:j_fle_label_textSize="14sp"
-           //set error text size
-           app:j_fle_error_textSize="14sp"
-           //set floating label animation duration(unit：ms)
-           app:j_fle_float_anim_duration="800"
-           //set error sliding text animation duration(unit：ms)
-           app:j_fle_error_anim_duration="8000"
-           //validate error mode disable(default enabled)
-           app:j_fle_error_disable="true"
-           //enable multiline mode(default disabled)
-           app:j_fle_multiline_mode_enable="true"
-           //enable clear button mode(default disabled)
-           app:j_fle_enable_clear_btn="true"
-           //set clear button size
-           app:j_fle_clear_btn_size="10dp"
-           //set clear button color
-           app:j_fle_clear_btn_color="#FF0000"
-           //set clear button horizontal margin
-           app:j_fle_clear_btn_horizontal_margin="2dp"
-           //set clear button drawable or vector drawable id
-           app:j_fle_clear_btn_id = "@drawable/icon"
-           //Even your edit text doesn't have focus, your clear button still show at right.(default invisible)
-           app:j_fle_show_clear_btn_without_focus="true"
-           //display your current and max text length(default invisible)
-           app:j_fle_show_text_length="true"
-           //set text length display color(default highlight_color)
-           app:j_fle_text_length_display_color="#00FFFF"
-           />
-           
+ <in.codeshuffle.typewriterview.TypeWriterView
+        android:id="@+id/typeWriterView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textStyle="bold" />           
  ```
  
  ## Method
@@ -167,22 +128,17 @@ Android library for typewriter like effects
  
  If you like this widget, you could praise me some protein powder below lol
  
- |WeChat|AliPay|
- |:---:|:---:|
- |![](../art/weixin_green.jpg)|![](../art/zhifubao_blue.jpg)|
- 
- ## Suggestion
+ ## Note
  
  ```
- Floating label text length not allow longer than widget width.
- User need clear UI to know your widget's title and format, 
- so you need to abbreviate your label text.
+ - The function animateText() when called multiple times on same view, is tweaked to display all the strings concatenated. Use with care, Synchronously.
+ - Music effect of typewriter doesn't stop if app is minimized while text is being animated.
  ```
  
  License
  -------
  
-     Copyright 2018 james602152002
+     Copyright 2018 SkyManSandy
  
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
