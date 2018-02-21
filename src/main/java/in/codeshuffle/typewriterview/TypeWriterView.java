@@ -19,6 +19,8 @@ public class TypeWriterView extends AppCompatTextView {
     private long mDelay = 100; //Default 500ms delay
 
     private Context c;
+    private boolean withMusic = true;
+    private boolean animating = false;
 
     private Runnable mBlinker;
     private int i = 0;
@@ -40,7 +42,9 @@ public class TypeWriterView extends AppCompatTextView {
             if (mIndex <= mText.length()) {
                 mHandler.postDelayed(characterAdder, mDelay);
             } else {
-                mPlayer.stop();
+                if (withMusic)
+                    mPlayer.stop();
+                animating = false;
                 callBlink();
             }
         }
@@ -66,19 +70,26 @@ public class TypeWriterView extends AppCompatTextView {
     }
 
     private void playMusic() {
-        mPlayer = MediaPlayer.create(getContext(), R.raw.typing);
-        mPlayer.setLooping(true);
-        mPlayer.start();
+        if (withMusic) {
+            mPlayer = MediaPlayer.create(getContext(), R.raw.typing);
+            mPlayer.setLooping(true);
+            mPlayer.start();
+        }
     }
 
 
     public void animateText(String text) {
-        mText = text;
-        mIndex = 0;
-        playMusic();
-        setText("");
-        mHandler.removeCallbacks(characterAdder);
-        mHandler.postDelayed(characterAdder, mDelay);
+        if (!animating) {
+            animating = true;
+            mText = text;
+            mIndex = 0;
+            playMusic();
+            setText("");
+            mHandler.removeCallbacks(characterAdder);
+            mHandler.postDelayed(characterAdder, mDelay);
+        }
+        else
+            mText = mText +"\n\n"+text;
     }
 
     public void setDelay(int delay)
@@ -87,7 +98,11 @@ public class TypeWriterView extends AppCompatTextView {
             this.mDelay=delay;
     }
 
-    public void removeCalls() {
+    public void setWithMusic(boolean music) {
+        withMusic = music;
+    }
+
+    public void removeAnimation() {
         mHandler.removeCallbacks(characterAdder);
     }
 }
