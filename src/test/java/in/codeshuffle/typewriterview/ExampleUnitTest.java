@@ -1,4 +1,4 @@
-package in.test.typewriterview;
+package in.codeshuffle.typewriterview;
 
 import org.junit.Test;
 

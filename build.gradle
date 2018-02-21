@@ -1,4 +1,3 @@
-
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
@@ -17,7 +16,7 @@ ext {
     siteUrl = 'https://github.com/skymansandy/typewriterview'
     gitUrl = 'https://github.com/skymansandy/typewriterview.git'
 
-    libraryVersion = '1.0.2'
+    libraryVersion = '1.0.3'
 
     developerId = 'skymansandy'
     developerName = 'P Sandesh Baliga'

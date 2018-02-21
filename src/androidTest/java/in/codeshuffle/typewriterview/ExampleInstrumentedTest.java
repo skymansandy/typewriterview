@@ -1,4 +1,4 @@
-package in.test.typewriterview;
+package in.codeshuffle.typewriterview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
