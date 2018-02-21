@@ -10,14 +10,747 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b83ff7c4-9db8-4d15-a7c2-ccc300811977" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-21-22-31-18-748.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-21-22-31-18-748.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-21-23-04-47-822.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-21-23-04-47-822.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-21-23-04-56-519.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-21-23-04-56-519.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/mockable-android-26.v3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/buildConfig/androidTest/debug/in/codeshuffle/typewriterview/test/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/arch/lifecycle/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/compat/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/coreui/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/coreutils/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/fragment/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/graphics/drawable/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/graphics/drawable/animated/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/mediacompat/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/test/espresso/idling/concurrent/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/test/rules/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/test/runner/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/v4/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/android/support/v7/appcompat/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/in/codeshuffle/typewriterview/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/androidTest/debug/in/codeshuffle/typewriterview/test/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/debug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-af.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-am.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-az.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-b+sr+Latn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-bg.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-bn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-bs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-cs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-da.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-el.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-en-rAU.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-en-rGB.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-en-rIN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-es-rUS.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-et.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-eu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-fa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-fi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-fr-rCA.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-gl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-gu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-h720dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-hdpi-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-hr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-hy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-in.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-is.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-iw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ka.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-kk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-km.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-kn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ky.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-land.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-large-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ldltr-v21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-lo.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-lt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-lv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-mk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ml.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-mn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-mr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ms.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-my.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ne.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-night-v8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-pa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-port.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-pt-rBR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-pt-rPT.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ro.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-si.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sq.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sw.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sw600dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ta.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-te.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-tl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-uk.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-ur.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-uz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-xlarge-v4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-zh-rCN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-zh-rHK.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-zh-rTW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values-zu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/multi-v2/values.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/blame/res/androidTest/debug/single/debug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-is/values-is.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-my/values-my.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-te/values-te.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v26/values-v26.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/manifest/androidTest/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/androidTest/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_fade_in.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_fade_out.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_grow_fade_in_from_bottom.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_popup_enter.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_popup_exit.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_in_bottom.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_in_top.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_out_bottom.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_abc_slide_out_top.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_tooltip_enter.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/anim_tooltip_exit.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_btn_colored_text_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_color_highlight_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_tint_btn_checkable.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_tint_default.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_tint_edittext.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_tint_seek_thumb.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_tint_spinner.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color-v23_abc_tint_switch_track.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_btn_colored_borderless_text_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_btn_colored_text_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_hint_foreground_material_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_hint_foreground_material_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_disable_only_material_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_disable_only_material_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_material_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_primary_text_material_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_search_url_text.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_secondary_text_material_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_secondary_text_material_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_tint_btn_checkable.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_tint_default.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_tint_edittext.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_tint_seek_thumb.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_tint_spinner.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_abc_tint_switch_track.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_switch_thumb_material_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/color_switch_thumb_material_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-v21_abc_btn_colored_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-v21_abc_edit_text_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-v21_notification_action_background.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-v23_abc_control_background_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_borderless_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_check_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_colored_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_default_mtrl_shape.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_btn_radio_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_cab_background_internal_bg.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_cab_background_top_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_dialog_material_background.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_edit_text_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_ab_back_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_clear_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_go_search_api_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_menu_overflow_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_search_api_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ic_voice_search_api_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_item_background_holo_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_item_background_holo_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_list_selector_holo_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ratingbar_indicator_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ratingbar_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_ratingbar_small_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_seekbar_thumb_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_seekbar_tick_mark_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_seekbar_track_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_spinner_textfield_background_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_switch_thumb_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_tab_indicator_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_text_cursor_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_textfield_search_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_abc_vector_test.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_notification_bg.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_notification_bg_low.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_notification_icon_background.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_notification_tile_bg.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_tooltip_frame_dark.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/drawable_tooltip_frame_light.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout-v16_notification_template_custom_big.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_action.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_action_tombstone.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_custom_big.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout-v21_notification_template_icon_group.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout-v26_abc_screen_toolbar.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_title_item.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_up_container.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_action_menu_item_layout.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_action_menu_layout.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_action_mode_bar.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_action_mode_close_item_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_activity_chooser_view.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_activity_chooser_view_list_item.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_alert_dialog_button_bar_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_alert_dialog_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_alert_dialog_title_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_dialog_title_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_expanded_menu_layout.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_checkbox.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_icon.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_layout.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_list_menu_item_radio.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_popup_menu_header_item_layout.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_popup_menu_item_layout.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_content_include.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_simple.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_screen_toolbar.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_search_view.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_abc_select_dialog_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_action.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_action_tombstone.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_media_action.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_media_cancel_action.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media_custom.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media_narrow.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_big_media_narrow_custom.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_icon_group.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_lines_media.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_media.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_media_custom.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_chronometer.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_notification_template_part_time.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_item_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_multichoice_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_select_dialog_singlechoice_material.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_support_simple_spinner_dropdown_item.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/layout_tooltip.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/raw_typing.ogg.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-af_values-af.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-am_values-am.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ar_values-ar.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-az_values-az.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-be_values-be.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-bg_values-bg.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-bn_values-bn.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-bs_values-bs.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ca_values-ca.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-cs_values-cs.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-da_values-da.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-de_values-de.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-el_values-el.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-en-rAU_values-en-rAU.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-en-rGB_values-en-rGB.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-en-rIN_values-en-rIN.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-es-rUS_values-es-rUS.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-es_values-es.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-et_values-et.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-eu_values-eu.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-fa_values-fa.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-fi_values-fi.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-fr-rCA_values-fr-rCA.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-fr_values-fr.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-gl_values-gl.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-gu_values-gu.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-hi_values-hi.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-hr_values-hr.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-hu_values-hu.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-hy_values-hy.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-in_values-in.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-is_values-is.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-it_values-it.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-iw_values-iw.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ja_values-ja.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ka_values-ka.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-kk_values-kk.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-km_values-km.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-kn_values-kn.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ko_values-ko.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ky_values-ky.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-land_values-land.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-large-v4_values-large-v4.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-lo_values-lo.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-lt_values-lt.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-lv_values-lv.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-mk_values-mk.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ml_values-ml.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-mn_values-mn.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-mr_values-mr.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ms_values-ms.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-my_values-my.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-nb_values-nb.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ne_values-ne.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-night-v8_values-night-v8.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-nl_values-nl.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-pa_values-pa.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-pl_values-pl.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-port_values-port.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-pt-rBR_values-pt-rBR.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-pt-rPT_values-pt-rPT.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-pt_values-pt.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ro_values-ro.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ru_values-ru.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-si_values-si.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-sk_values-sk.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-sl_values-sl.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-sq_values-sq.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-sr_values-sr.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-sv_values-sv.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-sw_values-sw.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ta_values-ta.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-te_values-te.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-th_values-th.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-tl_values-tl.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-tr_values-tr.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-uk_values-uk.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-ur_values-ur.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-uz_values-uz.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v11_values-v11.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v12_values-v12.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v13_values-v13.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v14_values-v14.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v16_values-v16.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v17_values-v17.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v18_values-v18.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v21_values-v21.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v22_values-v22.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v23_values-v23.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v24_values-v24.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v25_values-v25.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-v26_values-v26.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-vi_values-vi.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-zh-rCN_values-zh-rCN.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-zh-rHK_values-zh-rHK.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-zh-rTW_values-zh-rTW.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values-zu_values-zu.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/symbol-table-with-package/androidTest/debug/package-aware-r.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typewriterview/build/outputs/aar/typewriterview-debug.aar" afterPath="$PROJECT_DIR$/typewriterview/build/outputs/aar/typewriterview-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterView.java" afterPath="$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterView.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,17 +777,9 @@
       <file leaf-file-name="TypeWriterView.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="84" column="12" lean-forward="false" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#827#828#0" expanded="false" />
-                <element signature="e#864#865#0" expanded="false" />
-                <element signature="e#2701#2702#0" expanded="false" />
-                <element signature="e#2734#2735#0" expanded="false" />
-                <element signature="e#2771#2772#0" expanded="false" />
-                <element signature="e#2827#2828#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="259">
+              <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2092,7 +2817,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519234501561" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519234768621" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2140,7 +2865,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519234501561" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519234768621" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2302,7 +3027,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519234501566" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1519234768623" />
       </method>
     </configuration>
     <list size="1">
@@ -2344,7 +3069,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="27" width="1299" height="741" extended-state="1" />
+    <frame x="67" y="27" width="1299" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2430,15 +3155,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#864#865#0" expanded="false" />
-            <element signature="e#2701#2702#0" expanded="false" />
-            <element signature="e#2734#2735#0" expanded="false" />
-            <element signature="e#2771#2772#0" expanded="false" />
-            <element signature="e#2827#2828#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2446,15 +3163,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#864#865#0" expanded="false" />
-            <element signature="e#2701#2702#0" expanded="false" />
-            <element signature="e#2734#2735#0" expanded="false" />
-            <element signature="e#2771#2772#0" expanded="false" />
-            <element signature="e#2827#2828#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2658,17 +3367,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="84" column="12" lean-forward="false" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#864#865#0" expanded="false" />
-            <element signature="e#2701#2702#0" expanded="false" />
-            <element signature="e#2734#2735#0" expanded="false" />
-            <element signature="e#2771#2772#0" expanded="false" />
-            <element signature="e#2827#2828#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="259">
+          <caret line="91" column="39" lean-forward="false" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>

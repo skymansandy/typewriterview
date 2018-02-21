@@ -89,7 +89,7 @@ public class TypeWriterView extends AppCompatTextView {
             mHandler.postDelayed(characterAdder, mDelay);
         }
         else
-            mText = mText +"\n\n"+text;`
+            mText = mText +"\n\n"+text;
     }
 
     public void setDelay(int delay)
