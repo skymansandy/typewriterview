@@ -3,11 +3,11 @@
 [ ![Download](https://api.bintray.com/packages/skymansandy/Test/typewriterview/images/download.svg) ](https://bintray.com/skymansandy/Test/typewriterview/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FloatingLabelEditText-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6727)
 [![License](https://img.shields.io/badge/License%20-Apache%202-337ab7.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![MinSDK](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
-[![](https://jitpack.io/v/james602152002/FloatingLabelEditText.svg)](https://jitpack.io/#james602152002/FloatingLabelEditText)
-[![Build Status](https://travis-ci.org/james602152002/FloatingLabelEditText.svg?branch=master)](https://travis-ci.org/james602152002/FloatingLabelEditText)
+[![](https://jitpack.io/v/skymansandy/typewriterview.svg)](https://jitpack.io/#skymansandy/typewriterview)
+[![Build Status](https://travis-ci.org/skymansandy/typewriterview.svg?branch=master)](https://travis-ci.org/skymansandy/typewriterview)
 [![codecov](https://codecov.io/gh/james602152002/FloatingLabelEditText/branch/master/graph/badge.svg)](https://codecov.io/gh/james602152002/FloatingLabelEditText)
 
-##A simple Android library for typewriter like effects
+## A simple Android library for typewriter like effects
 
 
 ## Features:
