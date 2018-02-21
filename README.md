@@ -7,7 +7,8 @@
 [![Build Status](https://travis-ci.org/james602152002/FloatingLabelEditText.svg?branch=master)](https://travis-ci.org/james602152002/FloatingLabelEditText)
 [![codecov](https://codecov.io/gh/james602152002/FloatingLabelEditText/branch/master/graph/badge.svg)](https://codecov.io/gh/james602152002/FloatingLabelEditText)
 
-A simple Android library for typewriter like effects
+##A simple Android library for typewriter like effects
+
 
 ## Features:
 
@@ -16,10 +17,12 @@ A simple Android library for typewriter like effects
  - Set TypeWriter sound effect (With or without sound)
  - Set all the usual attributes of TextView and style your view.
  
+ 
 # Demonstration
 |Demo TypeWriterView|
 |:---:|
 |![](art/demoTypeWriterView.gif)|
+
  
 # Usage
 ## Dependency:
@@ -57,9 +60,11 @@ A simple Android library for typewriter like effects
          //Remove Animation. This is required to be called when you want to minimize the app while animation is going on. Call this in onPause() or onStop()
          typeWriterView.removeAnimation();
  ```  
+ 
  ## Donate
  
- If you like this widget, you could praise me some protein powder below lol
+ If you like this Library, Spend time spending for me, Thanks! :p
+ 
  
  ## Note
  ```
