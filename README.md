@@ -84,7 +84,3 @@ A simple Android library for typewriter like effects
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
-<<<<<<< HEAD
-
-=======
->>>>>>> b51ad052157eae24073eae9c573d0c677dc10299
