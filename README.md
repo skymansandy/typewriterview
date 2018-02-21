@@ -22,17 +22,8 @@ Android library for typewriter like effects
 ## Dependency:
  
  ```
- allprojects {
- 	repositories {
- 		...
- 		maven { url 'https://jitpack.io' }
- 	}
- }
- ```
- 
- ```
  dependencies {
- 	compile 'com.github.james602152002:FloatingLabelEditText:1.3.1'
+   compile 'in.codeshuffle:typewriterview:1.0.5'
  }
  ```
  
