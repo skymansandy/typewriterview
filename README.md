@@ -61,11 +61,6 @@
          typeWriterView.removeAnimation();
  ```  
  
- ## Donate
- 
- If you like this Library, Spend time spending for me, Thanks! :p
- 
- 
  ## Note
  ```
  - The function animateText() when called multiple times on same view, is tweaked to display all the strings concatenated. Use with care, Synchronously.
