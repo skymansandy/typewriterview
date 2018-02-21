@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/License%20-Apache%202-337ab7.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![MinSDK](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
 [![](https://jitpack.io/v/skymansandy/typewriterview.svg)](https://jitpack.io/#skymansandy/typewriterview)
+[![Build Status](https://travis-ci.org/skymansandy/typewriterview.svg?branch=master)](https://travis-ci.org/skymansandy/typewriterview)
 
 ## A simple Android library for typewriter like effects
 
