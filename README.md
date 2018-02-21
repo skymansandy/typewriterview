@@ -27,7 +27,7 @@ A simple Android library for typewriter like effects
  
  ```
  dependencies {
-   compile 'in.codeshuffle:typewriterview:1.0.5'
+      compile 'in.codeshuffle:typewriterview:1.0.5'
  }
  ```
  
