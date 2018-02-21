@@ -31,7 +31,7 @@ A simple Android library for typewriter like effects
  }
  ```
  
- ## Property
+ ## XML Usage
  ```xml
  <in.codeshuffle.typewriterview.TypeWriterView
         android:id="@+id/typeWriterView"
@@ -41,85 +41,23 @@ A simple Android library for typewriter like effects
         android:textStyle="bold" />           
  ```
  
- ## Method
+ ## Java Usage
  ```java
- public void setting(){
-    //set focus status color
-    setHighlightColor(int color);
-    //set divider color when you are not in focus status
-    setDivider_color(int divider_color);
-    //set error status color
-    setError_color(int error_color);
-    //set label text and hint
-    setLabel(CharSequence hint);
-    //set thickness of divider
-    setThickness(int thickness);
-    //set label horizontal and vertical margin
-    setLabelMargins(int horizontal_margin, int vertical_margin);
-    //ser error text horizontal margin
-    setErrorMargin(int horizontal_margin);
-    //set divider vertical margin
-    setDivider_vertical_margin(int divider_vertical_margin);
-    //set floating label text size
-    setLabel_text_size(float label_text_size);
-    //set error text size
-    setError_text_size(float error_text_size);
-    //set floating label animation duration(unit：ms)
-    setAnimDuration(int ANIM_DURATION);
-    //set error sliding text animation duration(unit：ms)
-    setErrorAnimDuration(int ERROR_ANIM_DURATION);
-    //enable error mode
-    setError_enabled();
-    //disable error mode
-    setError_disabled();
-    //enable multiline mode(default disabled)
-    setMultiline_mode(boolean enable);
-    //enable clear button mode(default disabled)
-    enableClearBtn(boolean enable);
-    //set clear button size
-    setClear_btn_size(int clear_btn_size);
-    //set clear button color
-    setClear_btn_color(int clear_btn_color);
-    //set clear button horizontal margin
-    setClear_btn_horizontal_margin(int clear_btn_horizontal_margin);
-    //customize your clear button by ttf
-    customizeClearBtn(Typeface typeface, String uni_code, int color, int clear_btn_size);
-    //customize png or VectorDrawable clear button
-    customizeClearBtn(int drawableId, int clear_btn_width);
-    //Even your edit text doesn't have focus, your clear button still show at right.
-    showClearButtonWithoutFocus();
-    //display your current and max text length(default invisible)
-    showMaxTextLength(boolean show);
-    //set text length display color(default highlight_color)
-    setText_length_display_color(int text_length_display_color);
-    //set error below
-    setError(CharSequence error);
- }
- 
- ```
- ## Validation Mode Usage
-  ```java
-     public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-     
-         @Override
-         protected void onCreate(Bundle savedInstanceState) {
-             super.onCreate(savedInstanceState);
-             setContentView(R.layout.activity_main);
-             //Init your floating label edit text.
-             FloatingLabelEditText label = findViewById(R.id.label);
-             //set error message and your regex.
-             label.addValidator(new RegexValidator("long error hint", "\\d+"));
-             label.addValidator(new RegexValidator("You input letters.", "[A-Za-z]+$"));
-         }
-    }
-     
-  ```
-  
-  ```
-     In validation mode, FloatingLabelEditText will check your regex by TextWatcher.
-     When your input matches, this widget will show error message below.
-  ```
- 
+         //Create Object and refer to layout view
+         TypeWriterView typeWriterView=(TypeWriterView)findViewById(R.id.typeWriterView);
+         
+         //Setting each character animation delay
+         typeWriterView.setDelay(int);
+         
+         //Setting music effect On/Off
+         typeWriterView.setWithMusic(boolean);
+          
+         //Animating Text
+         typeWriterView.animateText(String);
+         
+         //Remove Animation. This is required to be called when you want to minimize the app while animation is going on. Call this in onPause() or onStop()
+         typeWriterView.removeAnimation();
+ ``` 
  ## Proguard
  
  You don't need use proguard at all.
@@ -129,7 +67,6 @@ A simple Android library for typewriter like effects
  If you like this widget, you could praise me some protein powder below lol
  
  ## Note
- 
  ```
  - The function animateText() when called multiple times on same view, is tweaked to display all the strings concatenated. Use with care, Synchronously.
  - Music effect of typewriter doesn't stop if app is minimized while text is being animated.
