@@ -9,6 +9,9 @@ android:
     - extra-android-m2repository
     - extra-android-support
 
+before_script:
+  - touch local.properties
+
 script:
   - ./gradlew build
 

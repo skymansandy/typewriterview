@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16407131-2909-47bd-96d8-5c4c446a2088" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build.gradle" afterPath="$PROJECT_DIR$/typewriterview/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/compat/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/coreui/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/coreutils/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/fragment/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/in/codeshuffle/typewriterview/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/in/codeshuffle/typewriterview/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/attr/R.txt" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/attr/R.txt" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/bundles/debug/R.txt" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/bundles/debug/R.txt" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-    </list>
+    <list default="true" id="16407131-2909-47bd-96d8-5c4c446a2088" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
