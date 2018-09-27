@@ -1,22 +1,15 @@
 language: android
 
-jdk:
-  - oraclejdk8
-
 android:
   components:
-    - tools
     - platform-tools
     - build-tools-27.0.0
     - android-27
-
-    # Extras
-    - extra-android-support
     - extra-android-m2repository
+    - extra-android-support
 
-    # System images to test
-    - sys-img-armeabi-v7a-android-27
+script:
+  - ./gradlew build
 
 before_install:
   - chmod +x gradlew
-  - chmod +x ./gradlew
