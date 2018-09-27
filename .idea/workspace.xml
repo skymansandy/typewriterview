@@ -1,209 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16407131-2909-47bd-96d8-5c4c446a2088" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/android_android_26.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/android_arch_core_common_1_0_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_common_1_0_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_runtime_1_0_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations_26_1_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_26_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_core_3_0_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_idling_resource_3_0_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_rules_1_0_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_runner_1_0_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_squareup_javawriter_2_1_1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_javax_inject_1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/net_sf_kxml_kxml2_2_3_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_core_1_3_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_integration_1_3_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_library_1_3_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-21-23-09-23-539.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-02-21-23-09-23-539.rawproto" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build.gradle" afterPath="$PROJECT_DIR$/typewriterview/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/compat/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/coreui/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/coreutils/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/fragment/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/mediacompat/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/v4/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/in/codeshuffle/typewriterview/R.java" afterPath="$PROJECT_DIR$/typewriterview/build/generated/source/r/debug/in/codeshuffle/typewriterview/R.java" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/attr/R.txt" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/attr/R.txt" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/bundles/debug/R.txt" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/bundles/debug/R.txt" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/bundles/debug/classes.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/arch/lifecycle/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/compat/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreui/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/coreutils/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/fragment/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/mediacompat/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v4/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$anim.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/android/support/v7/appcompat/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$anim.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$bool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$integer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$raw.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R$styleable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/TypeWriterView$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/TypeWriterView$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/classes/debug/in/codeshuffle/typewriterview/TypeWriterView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/javaPrecompile/debug/annotationProcessors.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/typewriterview/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/transforms/stripDebugSymbol/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/intermediates/typedefs.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/outputs/aar/typewriterview-debug.aar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/typewriterview/build/outputs/logs/manifest-merger-debug-report.txt" />
-    </list>
+    <list default="true" id="16407131-2909-47bd-96d8-5c4c446a2088" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -2391,6 +2189,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2401,7 +2200,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.592535" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.592535" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
