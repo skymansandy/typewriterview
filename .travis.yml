@@ -12,3 +12,6 @@ android:
 
     # System images to test
     - sys-img-armeabi-v7a-android-27
+
+  script:
+    - chmod +x ./gradlew
