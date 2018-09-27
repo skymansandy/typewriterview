@@ -1,4 +1,8 @@
 language: android
+
+jdk:
+  - oraclejdk8
+
 android:
   components:
     - tools
@@ -13,8 +17,9 @@ android:
     # System images to test
     - sys-img-armeabi-v7a-android-27
 
-  before_install:
-    - chmod +x gradlew
+before_install:
+  - chmod +x gradlew
+  - chmod +x ./gradlew
 
-  script:
-    - chmod +x ./gradlew
+script:
+  - ./gradlew assembleRelease --stacktrace
