@@ -69,6 +69,9 @@ Implement the given interface and override these stuff:
 ```java
 
           //Implement this to your class
+          yourClass extends someBaseClass implements TypeWriterListener
+          
+          //then listen to callbacks
           typeWriterView.setTypeWriterListener(this)
             
           //animation starts with animateText()
