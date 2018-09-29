@@ -15,6 +15,7 @@
  - Animate contents of textview as if it were typed by a TypeWriter
  - Set Animation Text appearance duration
  - Set TypeWriter sound effect (With or without sound)
+ - Set Typing animation listeners (4 available)
  - Set all the usual attributes of TextView and style your view.
  
  
@@ -29,7 +30,7 @@
  
  ```
  dependencies {
-      compile 'in.codeshuffle:typewriterview:1.0.6'
+      compile 'in.codeshuffle:typewriterview:1.1.0'
  }
  ```
  
@@ -59,12 +60,32 @@
          
          //Remove Animation. This is required to be called when you want to minimize the app while animation is going on. Call this in onPause() or onStop()
          typeWriterView.removeAnimation();
- ```  
+ ``` 
+ 
+ ###Listeners available
+          
+          Implement your class with 'TypeWriterListener' Interface. Then do: 
+ ```java
+           typeWriterView.setTypeWriterListener(this)
+ ```
+          Then Overide these four methods:
+```java
+          //animation starts with animateText()
+          onTypingStart(String text);
+          
+          //animation typed one character (for each character)
+          onTypingRemoved(String text);
+          
+          //Animation is removed using removeAnimation()
+          onCharacterTyped(String text, int position);
+           
+          //Animation ends printing entire text
+          onTypingEnd(String text);
+  ``` 
  
  ## Note
  ```
- - The function animateText() when called multiple times on same view, is tweaked to display all the strings concatenated. Use with care, Synchronously.
- - Music effect of typewriter doesn't stop if app is minimized while text is being animated.
+ - The function animateText() if called with another string when already an animation is going on, will have no effect!!
  ```
  
  License
