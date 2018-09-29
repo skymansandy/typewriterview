@@ -62,7 +62,7 @@
          typeWriterView.removeAnimation();
  ``` 
  
- ##Listeners available
+ ### Listeners available
           
 Implement the given interface and override these stuff:
 
