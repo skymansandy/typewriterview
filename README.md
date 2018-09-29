@@ -64,12 +64,13 @@
  
  ###Listeners available
           
-          Implement your class with 'TypeWriterListener' Interface. Then do: 
- ```java
-           typeWriterView.setTypeWriterListener(this)
- ```
-          Then Overide these four methods:
+Implement the given interface and override these stuff:
+
 ```java
+
+          //Implement this to your class
+          typeWriterView.setTypeWriterListener(this)
+            
           //animation starts with animateText()
           onTypingStart(String text);
           
