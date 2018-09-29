@@ -68,9 +68,10 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
-                <caret line="85" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+                <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
                 <folding>
-                  <marker date="1538254896797" expanded="true" signature="1442:1639" ph="..." />
+                  <marker date="1538255035343" expanded="true" signature="1442:1639" ph="..." />
+                  <marker date="1538255035343" expanded="true" signature="2429:2573" ph="/.../" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -2305,9 +2306,10 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
-            <caret line="85" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+            <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
             <folding>
-              <marker date="1538254896797" expanded="true" signature="1442:1639" ph="..." />
+              <marker date="1538255035343" expanded="true" signature="1442:1639" ph="..." />
+              <marker date="1538255035343" expanded="true" signature="2429:2573" ph="/.../" />
             </folding>
           </first_editor>
           <second_editor />
