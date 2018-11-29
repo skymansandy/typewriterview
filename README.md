@@ -30,7 +30,7 @@
  
  ```
  dependencies {
-      compile 'in.codeshuffle:typewriterview:1.1.0'
+      implementation 'in.codeshuffle:typewriterview:1.1.0'
  }
  ```
  
