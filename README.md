@@ -78,11 +78,11 @@ Implement the given interface and override these stuff:
           onTypingStart(String text);
           
           //animation typed one character (for each character)
+          onCharacterTyped(String text, int position);
+
+          //Animation is removed using removeAnimation()
           onTypingRemoved(String text);
           
-          //Animation is removed using removeAnimation()
-          onCharacterTyped(String text, int position);
-           
           //Animation ends printing entire text
           onTypingEnd(String text);
   ``` 
