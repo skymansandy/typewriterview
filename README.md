@@ -108,3 +108,8 @@ Implement the given interface and override these stuff:
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/skymansandy/typewriterview/badge.svg?style=beer-square)](https://beerpay.io/skymansandy/typewriterview)  [![Beerpay](https://beerpay.io/skymansandy/typewriterview/make-wish.svg?style=flat-square)](https://beerpay.io/skymansandy/typewriterview?focus=wish)
