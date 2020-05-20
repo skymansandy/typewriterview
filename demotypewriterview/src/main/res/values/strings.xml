@@ -1,0 +1,31 @@
+<resources>
+    <string name="library_app_name">TypeWriterView Demo</string>
+    <string name="library_app_description">App description</string>
+    <string name="menu_view_source">View source</string>
+    <string name="menu_about_dev">About dev</string>
+    <string name="menu_donate_a_beer">Donate a beer!</string>
+    <string name="menu_issues_and_feedback">Issues and Feedback</string>
+    <string name="menu_home">Home</string>
+    <string name="navigation_drawer_open">Navigation drawer open</string>
+    <string name="navigation_drawer_close">Navigation drawer close</string>
+    <string name="menu_rate_app">Rate app</string>
+    <string name="menu_share_app">Share this library</string>
+    <string name="off_topic">Off topic</string>
+    <string name="source_code">Source code</string>
+    <string name="issues_and_feedback">Issues and feedback</string>
+    <string name="thanks_for_the_beer">Thanks for the beer :)</string>
+    <string name="dev_name">P Sandesh Baliga</string>
+    <string name="dev_url">http://skymansandy.github.io/</string>
+    <string name="menu_about_library">About library</string>
+    <string name="about_library">About library</string>
+
+    <!--play store-->
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+    <string name="here_is_an_interesting_library">Here is an interesting library I came across</string>
+    <string name="share_using">Share using</string>
+    <string name="press_back_to_exit">Press again to exit</string>
+    <string name="thanks_for_the_support">Thanks for the support</string>
+    <string name="thats_so_nice_of_you">That\'s so nice of you :D</string>
+
+</resources>

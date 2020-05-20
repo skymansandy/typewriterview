@@ -3,9 +3,10 @@ package in.codeshuffle.typewriterview;
 import android.content.Context;
 import android.media.MediaPlayer;
 import android.os.Handler;
-import android.support.v7.widget.AppCompatTextView;
 import android.util.AttributeSet;
 import android.widget.Toast;
+
+import androidx.appcompat.widget.AppCompatTextView;
 
 /**
  * Created by P SANDESH BALIGA in Roshan Hospitality, Koramangala on 21/02/2018.
@@ -69,10 +70,10 @@ public class TypeWriterView extends AppCompatTextView {
             public void run() {
                 if (i <= 10) {
                     if (i++ % 2 != 0) {
-                        setText(mText + " _");
+                        setText(String.format("%s _", mText));
                         mHandler.postDelayed(mBlinker, 150);
                     } else {
-                        setText(mText + "   ");
+                        setText(String.format("%s   ", mText));
                         mHandler.postDelayed(mBlinker, 150);
                     }
                 } else

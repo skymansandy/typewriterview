@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/demotypewriterview" />
             <option value="$PROJECT_DIR$/typewriterview" />
           </set>
         </option>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navMenuHome"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/navMenuAboutLibrary"
+            android:icon="@drawable/ic_menu_about_library"
+            android:title="@string/menu_about_library" />
+        <item
+            android:id="@+id/navMenuGithub"
+            android:icon="@drawable/ic_menu_github_source"
+            android:title="@string/menu_view_source" />
+        <item
+            android:id="@+id/navMenuIssueFeedback"
+            android:icon="@drawable/ic_menu_issues_and_feedback"
+            android:title="@string/menu_issues_and_feedback" />
+
+        <item
+            android:id="@+id/navMenuDonateBeer"
+            android:icon="@drawable/ic_menu_donate_beer"
+            android:title="@string/menu_donate_a_beer"
+            android:visible="false" />
+
+        <item android:title="@string/off_topic">
+            <menu>
+                <group android:checkableBehavior="none">
+                    <item
+                        android:id="@+id/navMenuAbout"
+                        android:icon="@drawable/ic_menu_about_me"
+                        android:title="@string/menu_about_dev" />
+                    <item
+                        android:id="@+id/navMenuRateApp"
+                        android:icon="@drawable/ic_menu_rate_app"
+                        android:title="@string/menu_rate_app" />
+
+                    <item
+                        android:id="@+id/navMenuShareApp"
+                        android:icon="@drawable/ic_menu_share"
+                        android:title="@string/menu_share_app" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>

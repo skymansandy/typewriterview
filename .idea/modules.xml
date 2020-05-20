@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Open-typewriterview.iml" filepath="$PROJECT_DIR$/Open-typewriterview.iml" group="typewriterview" />
+      <module fileurl="file://$PROJECT_DIR$/typewriterview/Open-typewriterview-typewriterview.iml" filepath="$PROJECT_DIR$/typewriterview/Open-typewriterview-typewriterview.iml" group="typewriterview/typewriterview" />
+      <module fileurl="file://$PROJECT_DIR$/demotypewriterview/demotypewriterview.iml" filepath="$PROJECT_DIR$/demotypewriterview/demotypewriterview.iml" group="typewriterview/demotypewriterview" />
       <module fileurl="file://$PROJECT_DIR$/projects-typewriterview.iml" filepath="$PROJECT_DIR$/projects-typewriterview.iml" group="typewriterview" />
       <module fileurl="file://$PROJECT_DIR$/typewriterview/projects-typewriterview-typewriterview.iml" filepath="$PROJECT_DIR$/typewriterview/projects-typewriterview-typewriterview.iml" group="typewriterview/typewriterview" />
-      <module fileurl="file://$PROJECT_DIR$/typewriterview.iml" filepath="$PROJECT_DIR$/typewriterview.iml" />
       <module fileurl="file://$PROJECT_DIR$/typewriterview/typewriterview-typewriterview.iml" filepath="$PROJECT_DIR$/typewriterview/typewriterview-typewriterview.iml" />
     </modules>
   </component>
