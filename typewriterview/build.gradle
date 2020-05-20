@@ -1,43 +1,28 @@
+apply plugin: 'com.novoda.bintray-release'
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-apply plugin: 'com.jfrog.bintray'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
 
-ext {
-    Properties properties = new Properties()
-    properties.load(project.rootProject.file('local.properties').newDataInputStream())
+publish {
+    def groupProjectID = 'in.codeshuffle.typewriterview'
+    def artifactProjectID = 'typewriterview'
+    def publishVersionID = '1.1.1'
 
-    user = properties.getProperty("bintray.user")
-    key = properties.getProperty("bintray.apikey")
-
-    bintrayRepo = 'Test'
-    bintrayName = 'typewriterview'
-
-    publishedGroupId = 'in.codeshuffle'
-    libraryName = 'typewriterview'
-    artifact = 'typewriterview'
-
-    libraryDescription = 'A Library to animate content of textview as if it were typed from a typewriter, with animation listeners!'
-
-    siteUrl = 'https://github.com/skymansandy/typewriterview'
-    gitUrl = 'https://github.com/skymansandy/typewriterview.git'
-
-    libraryVersion = '1.1.0'
-
-    developerId = 'skymansandy'
-    developerName = 'P Sandesh Baliga'
-    developerEmail = 'skymansandycs@gmail.com'
-
-    licenseName = 'The Apache Software License, Version 2.0'
-    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-    allLicenses = ["Apache-2.0"]
+    userOrg = 'skymansandy'
+    repoName = 'typewriterview'
+    groupId = groupProjectID
+    artifactId = artifactProjectID
+    publishVersion = publishVersionID
+    desc = 'A Library to animate content of textview as if it were typed from a typewriter, with animation listeners!'
+    website = 'https://github.com/skymansandy/typewriterview'
 }
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion "28.0.3"
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 28
+        targetSdkVersion 29
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -58,6 +43,3 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.1.0'
 }
-
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'

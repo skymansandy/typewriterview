@@ -1,9 +1,11 @@
 apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
 
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "in.codeshuffle.demotypewriterview"
+        applicationId "in.codeshuffle.typewriterview"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 3
@@ -42,6 +44,6 @@ dependencies {
     //Circular image view
     implementation 'de.hdodenhof:circleimageview:3.1.0'
 
-    //TypeWriterView
+    //Scratch card view
     implementation project(':typewriterview')
 }

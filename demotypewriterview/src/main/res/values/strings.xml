@@ -28,4 +28,19 @@
     <string name="thanks_for_the_support">Thanks for the support</string>
     <string name="thats_so_nice_of_you">That\'s so nice of you :D</string>
 
+    <!--Library Demo related-->
+    <string name="trophy">Trophy icon</string>
+    <string name="you_have_not_won">You haven\'t won</string>
+    <string name="rupee_10">₹10</string>
+    <string name="control_panel">Control panel</string>
+    <string name="scratch_effect">Scratch effect</string>
+    <string name="scratch_brush_size">Scratch brush size</string>
+    <string name="reveal_full_layout_at">Reveal full layout at %</string>
+    <string name="logs">Logs</string>
+    <string name="percentage">Percentage</string>
+    <string name="reset">Reset</string>
+    <string name="clear">Clear</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="resetting_view_since_reveal_percent_was_changed">Restting view since reveal percent setting was changed</string>
 </resources>

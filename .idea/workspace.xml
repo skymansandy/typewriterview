@@ -7,18 +7,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b77d8c5-ecde-4a1d-ae06-c15bf82d4a4f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterListener.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/demoTypeWriterView.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/demotypewriterview/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demotypewriterview/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/java/in/codeshuffle/demotypewriterview/ui/activity/main/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/java/in/codeshuffle/demotypewriterview/ui/fragment/aboutdev/AboutDevFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/java/in/codeshuffle/demotypewriterview/ui/fragment/demoscreen/DemoFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/java/in/codeshuffle/demotypewriterview/ui/fragment/webpagescreen/WebPageContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/java/in/codeshuffle/demotypewriterview/ui/fragment/webpagescreen/WebPageFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/java/in/codeshuffle/demotypewriterview/util/AppConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/java/in/codeshuffle/demotypewriterview/util/AppUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/res/layout/fragment_demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demotypewriterview/src/main/res/layout/fragment_demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demotypewriterview/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demotypewriterview/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typewriterview/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/typewriterview/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/src/androidTest/java/in/codeshuffle/typewriterview/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/typewriterview/src/androidTest/java/in/codeshuffle/typewriterview/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterView.java" beforeDir="false" afterPath="$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/src/test/java/in/codeshuffle/typewriterview/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/typewriterview/src/test/java/in/codeshuffle/typewriterview/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typewriterview/typewriterview.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typewriterview/src/main/java/in/codeshuffle/typewriterview/TypeWriterView.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +66,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/bharath/clients" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android App.demotypewriterview">
+  <component name="RunManager" selected="Android App.typewriterview-demotypewriterview">
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -137,6 +155,57 @@
     </configuration>
     <configuration name="demotypewriterview" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="demotypewriterview" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="typewriterview-demotypewriterview" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="typewriterview-demotypewriterview" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
