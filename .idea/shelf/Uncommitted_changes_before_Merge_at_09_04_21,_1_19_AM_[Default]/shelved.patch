@@ -1,0 +1,199 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AndroidLayouts\">\n    <shared>\n      <config />\n    </shared>\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"e136cf9d-aae2-4114-8f9f-ad4c59efa598\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/modules.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExecutionTargetManager\" SELECTED_TARGET=\"a6f3339f\" />\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view>\n          <tree_state>\n            <expand />\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1YO5xHgtHxUkqCvls55nTMB2hFE\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"android.sdk.path\" value=\"$USER_HOME$/Android/Sdk\" />\n    <property name=\"last_opened_file_path\" value=\"$USER_HOME$/bharath/clients\" />\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\n    <property name=\"project.structure.proportion\" value=\"0.17\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"android.sdk-updates\" />\n    <property name=\"show.migrate.to.gradle.popup\" value=\"false\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"RunManager\" selected=\"Android App.demotypewriterview\">\n    <configuration name=\"&lt;template&gt;\" type=\"JUnit\" default=\"true\" selected=\"false\">\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"%MODULE_WORKING_DIR%\" />\n    </configuration>\n    <configuration name=\"&lt;template&gt;\" type=\"#org.jetbrains.idea.devkit.run.PluginConfigurationType\" default=\"true\" selected=\"false\">\n      <option name=\"VM_PARAMETERS\" value=\"-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea\" />\n    </configuration>\n    <configuration default=\"true\" type=\"AndroidJUnit\" factoryName=\"Android JUnit\">\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$MODULE_DIR$\" />\n      <method v=\"2\">\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"demoscratchcardlayout\" type=\"AndroidRunConfigurationType\" factoryName=\"Android App\">\n      <module name=\"demoscratchcardlayout\" />\n      <option name=\"DEPLOY\" value=\"true\" />\n      <option name=\"DEPLOY_APK_FROM_BUNDLE\" value=\"false\" />\n      <option name=\"DEPLOY_AS_INSTANT\" value=\"false\" />\n      <option name=\"ARTIFACT_NAME\" value=\"\" />\n      <option name=\"PM_INSTALL_OPTIONS\" value=\"\" />\n      <option name=\"DYNAMIC_FEATURES_DISABLED_LIST\" value=\"\" />\n      <option name=\"ACTIVITY_EXTRA_FLAGS\" value=\"\" />\n      <option name=\"MODE\" value=\"default_activity\" />\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\n      <option name=\"SKIP_NOOP_APK_INSTALLATIONS\" value=\"true\" />\n      <option name=\"FORCE_STOP_RUNNING_APP\" value=\"true\" />\n      <option name=\"TARGET_SELECTION_MODE\" value=\"DEVICE_AND_SNAPSHOT_COMBO_BOX\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_CONFIGURATION_ID\" value=\"-1\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_PROJECT_ID\" value=\"\" />\n      <option name=\"DEBUGGER_TYPE\" value=\"Auto\" />\n      <Auto>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n      </Auto>\n      <Hybrid>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n      </Hybrid>\n      <Java />\n      <Native>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n      </Native>\n      <Profilers>\n        <option name=\"ADVANCED_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_CONFIGURATION_NAME\" value=\"Sample Java Methods\" />\n      </Profilers>\n      <option name=\"DEEP_LINK\" value=\"\" />\n      <option name=\"ACTIVITY_CLASS\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"demotypewriterview\" type=\"AndroidRunConfigurationType\" factoryName=\"Android App\" activateToolWindowBeforeRun=\"false\">\n      <module name=\"demotypewriterview\" />\n      <option name=\"DEPLOY\" value=\"true\" />\n      <option name=\"DEPLOY_APK_FROM_BUNDLE\" value=\"false\" />\n      <option name=\"DEPLOY_AS_INSTANT\" value=\"false\" />\n      <option name=\"ARTIFACT_NAME\" value=\"\" />\n      <option name=\"PM_INSTALL_OPTIONS\" value=\"\" />\n      <option name=\"DYNAMIC_FEATURES_DISABLED_LIST\" value=\"\" />\n      <option name=\"ACTIVITY_EXTRA_FLAGS\" value=\"\" />\n      <option name=\"MODE\" value=\"default_activity\" />\n      <option name=\"CLEAR_LOGCAT\" value=\"false\" />\n      <option name=\"SHOW_LOGCAT_AUTOMATICALLY\" value=\"false\" />\n      <option name=\"SKIP_NOOP_APK_INSTALLATIONS\" value=\"true\" />\n      <option name=\"FORCE_STOP_RUNNING_APP\" value=\"true\" />\n      <option name=\"TARGET_SELECTION_MODE\" value=\"DEVICE_AND_SNAPSHOT_COMBO_BOX\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_CONFIGURATION_ID\" value=\"-1\" />\n      <option name=\"SELECTED_CLOUD_MATRIX_PROJECT_ID\" value=\"\" />\n      <option name=\"DEBUGGER_TYPE\" value=\"Auto\" />\n      <Auto>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n      </Auto>\n      <Hybrid>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n      </Hybrid>\n      <Java />\n      <Native>\n        <option name=\"USE_JAVA_AWARE_DEBUGGER\" value=\"false\" />\n        <option name=\"SHOW_STATIC_VARS\" value=\"true\" />\n        <option name=\"WORKING_DIR\" value=\"\" />\n        <option name=\"TARGET_LOGGING_CHANNELS\" value=\"lldb process:gdb-remote packets\" />\n        <option name=\"SHOW_OPTIMIZED_WARNING\" value=\"true\" />\n      </Native>\n      <Profilers>\n        <option name=\"ADVANCED_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_ENABLED\" value=\"false\" />\n        <option name=\"STARTUP_CPU_PROFILING_CONFIGURATION_NAME\" value=\"Sample Java Methods\" />\n      </Profilers>\n      <option name=\"DEEP_LINK\" value=\"\" />\n      <option name=\"ACTIVITY_CLASS\" value=\"\" />\n      <method v=\"2\">\n        <option name=\"Android.Gradle.BeforeRunTask\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"Applet\">\n      <option name=\"POLICY_FILE\" value=\"$APPLICATION_HOME_DIR$/bin/appletviewer.policy\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"Application\" factoryName=\"Application\">\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"TestNG\">\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"%MODULE_WORKING_DIR%\" />\n      <properties />\n      <listeners />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"2b77d8c5-ecde-4a1d-ae06-c15bf82d4a4f\" name=\"Default\" comment=\"\" />\n      <created>1538250347694</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1538250347694</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"COLUMN_ORDER\" />\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 01da719ccc7713d592f94db6f0acccf5b38fd7d1)
++++ .idea/workspace.xml	(date 1617911302000)
+@@ -6,17 +6,13 @@
+     </shared>
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e136cf9d-aae2-4114-8f9f-ad4c59efa598" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
+-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
++    <list default="true" id="2b77d8c5-ecde-4a1d-ae06-c15bf82d4a4f" name="Default" comment="Sonarqube integration" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+-  <component name="ExecutionTargetManager" SELECTED_TARGET="a6f3339f" />
++  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[a6f3339f]" />
+   <component name="ExternalProjectsData">
+     <projectState path="$PROJECT_DIR$">
+       <ProjectState />
+@@ -35,6 +31,11 @@
+     </system>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1YO5xHgtHxUkqCvls55nTMB2hFE" />
+@@ -43,26 +44,21 @@
+   </component>
+   <component name="PropertiesComponent">
+     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
++    <property name="dart.analysis.tool.window.visible" value="false" />
+     <property name="last_opened_file_path" value="$USER_HOME$/bharath/clients" />
+     <property name="project.structure.last.edited" value="Modules" />
+     <property name="project.structure.proportion" value="0.17" />
+     <property name="project.structure.side.proportion" value="0.2" />
+     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+     <property name="show.migrate.to.gradle.popup" value="false" />
+-  </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
+   </component>
+   <component name="RunManager" selected="Android App.demotypewriterview">
++    <configuration default="true" type="Applet">
++      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+       <option name="MAIN_CLASS_NAME" />
+       <option name="VM_PARAMETERS" value="-ea" />
+@@ -86,6 +82,7 @@
+       <option name="DEPLOY_AS_INSTANT" value="false" />
+       <option name="ARTIFACT_NAME" value="" />
+       <option name="PM_INSTALL_OPTIONS" value="" />
++      <option name="ALL_USERS" value="false" />
+       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+       <option name="MODE" value="default_activity" />
+@@ -121,11 +118,16 @@
+       </Native>
+       <Profilers>
+         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
++        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
++        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
++        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+       </Profilers>
+       <option name="DEEP_LINK" value="" />
+       <option name="ACTIVITY_CLASS" value="" />
++      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
++      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+       <method v="2">
+         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+       </method>
+@@ -137,6 +139,7 @@
+       <option name="DEPLOY_AS_INSTANT" value="false" />
+       <option name="ARTIFACT_NAME" value="" />
+       <option name="PM_INSTALL_OPTIONS" value="" />
++      <option name="ALL_USERS" value="false" />
+       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+       <option name="MODE" value="default_activity" />
+@@ -172,21 +175,20 @@
+       </Native>
+       <Profilers>
+         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
++        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
++        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
++        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+       </Profilers>
+       <option name="DEEP_LINK" value="" />
+       <option name="ACTIVITY_CLASS" value="" />
++      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
++      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+       <method v="2">
+         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration default="true" type="Applet">
+-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+     <configuration default="true" type="Application" factoryName="Application">
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+       <method v="2">
+@@ -214,6 +216,14 @@
+       <option name="presentableId" value="Default" />
+       <updated>1538250347694</updated>
+     </task>
++    <task id="LOCAL-00001" summary="Sonarqube integration">
++      <created>1617911022359</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1617911022360</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -221,12 +231,23 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State>
+-              <option name="COLUMN_ORDER" />
+-            </State>
++            <State />
+           </value>
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
++    <option name="CHECK_NEW_TODO" value="false" />
++    <MESSAGE value="Sonarqube integration" />
++    <option name="LAST_COMMIT_MESSAGE" value="Sonarqube integration" />
++  </component>
++  <component name="WindowStateProjectService">
++    <state x="577" y="158" key="#demotypewriterview" timestamp="1617911293356">
++      <screen x="0" y="0" width="1792" height="1120" />
++    </state>
++    <state x="577" y="158" key="#demotypewriterview/0.0.1792.1120@0.0.1792.1120" timestamp="1617911293356" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ProjectModuleManager\">\n    <modules>\n      <module fileurl=\"file://$PROJECT_DIR$/PlayGround-projects-typewriterview.iml\" filepath=\"$PROJECT_DIR$/PlayGround-projects-typewriterview.iml\" group=\"typewriterview\" />\n      <module fileurl=\"file://$PROJECT_DIR$/demotypewriterview/demotypewriterview.iml\" filepath=\"$PROJECT_DIR$/demotypewriterview/demotypewriterview.iml\" group=\"typewriterview/demotypewriterview\" />\n      <module fileurl=\"file://$PROJECT_DIR$/projects-typewriterview.iml\" filepath=\"$PROJECT_DIR$/projects-typewriterview.iml\" group=\"typewriterview\" />\n      <module fileurl=\"file://$PROJECT_DIR$/typewriterview/typewriterview-typewriterview.iml\" filepath=\"$PROJECT_DIR$/typewriterview/typewriterview-typewriterview.iml\" group=\"typewriterview/typewriterview\" />\n    </modules>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(revision 01da719ccc7713d592f94db6f0acccf5b38fd7d1)
++++ .idea/modules.xml	(date 1617911307000)
+@@ -5,7 +5,10 @@
+       <module fileurl="file://$PROJECT_DIR$/PlayGround-projects-typewriterview.iml" filepath="$PROJECT_DIR$/PlayGround-projects-typewriterview.iml" group="typewriterview" />
+       <module fileurl="file://$PROJECT_DIR$/demotypewriterview/demotypewriterview.iml" filepath="$PROJECT_DIR$/demotypewriterview/demotypewriterview.iml" group="typewriterview/demotypewriterview" />
+       <module fileurl="file://$PROJECT_DIR$/projects-typewriterview.iml" filepath="$PROJECT_DIR$/projects-typewriterview.iml" group="typewriterview" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typewriterview.iml" filepath="$PROJECT_DIR$/.idea/modules/typewriterview.iml" />
+       <module fileurl="file://$PROJECT_DIR$/typewriterview/typewriterview-typewriterview.iml" filepath="$PROJECT_DIR$/typewriterview/typewriterview-typewriterview.iml" group="typewriterview/typewriterview" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demotypewriterview/typewriterview.demotypewriterview.iml" filepath="$PROJECT_DIR$/.idea/modules/demotypewriterview/typewriterview.demotypewriterview.iml" />
++      <module fileurl="file://$PROJECT_DIR$/.idea/modules/typewriterview/typewriterview.typewriterview.iml" filepath="$PROJECT_DIR$/.idea/modules/typewriterview/typewriterview.typewriterview.iml" />
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file
